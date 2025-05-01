@@ -1,0 +1,6 @@
+@newtonSample_HostAddress = http://localhost:5067
+
+GET {{newtonSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
